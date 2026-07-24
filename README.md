@@ -1,4 +1,4 @@
-<div align="center">
+🚀🔭⚙️🏗️📊⚡→→→→🌱—📫🛠️—·······🚧⏱️——🎯—📦🔁—🧭—💼🟢—·–······🧩🔗—🔄📥→→⚡→—🔒🔵—·–·🩺🧱📊🎓🎓—–🎓—–🌐<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=210&section=header&text=Ashutosh%20Bisht&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Data%20Pipelines&descAlignY=56&descSize=18" width="100%" />
 
