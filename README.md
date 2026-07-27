@@ -115,19 +115,6 @@ Includes a **load simulator**, **chaos testing framework**, and deterministic te
 
 
 ### Overall Stats
-
-<table>
-<tr>
-<td width="50%">
-
-</td>
-<td width="50%">
-
-
-</td>
-</tr>
-</table>
-
 ### Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ashutoshbishtt&theme=react&hide_border=true&background=0d1117&ring=36BCF7&fire=26d0ce&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
