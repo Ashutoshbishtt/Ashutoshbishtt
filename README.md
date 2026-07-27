@@ -113,7 +113,6 @@ Includes a **load simulator**, **chaos testing framework**, and deterministic te
 
 # 📊 GitHub Stats
 
-<div align="center">
 
 ### Overall Stats
 
