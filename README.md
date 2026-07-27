@@ -1,4 +1,5 @@
-<div align="center">
+
+    <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=210&section=header&text=Ashutosh%20Bisht&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Backend&descAlignY=56&descSize=18" width="100%" />
 
@@ -117,7 +118,26 @@ Includes a **load simulator**, **chaos testing framework**, and deterministic te
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshbishtt&theme=react&hide_border=true&background=0d1117&ring=36BCF7&fire=26d0ce&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=8b949e" width="70%" />
+### Overall Stats
+
+<table>
+<tr>
+<td width="50%">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutoshbishtt&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=26d0ce&ring_color=36BCF7)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td width="50%">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshbishtt&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+### Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshbishtt&theme=react&hide_border=true&background=0d1117&ring=36BCF7&fire=26d0ce&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
